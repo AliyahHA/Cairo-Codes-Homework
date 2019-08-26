@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.body1{
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+}
+
+.img1{
+    margin: 10px;
+    border-radius: 30%;
+}
+.body2{
+   display: flex;
+   flex-direction: row-reverse;
+   padding: 5px;
+}
+
+.body22{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+}
+.pic{
+    border-radius: 30%;
+}
+
+.p-body2{
+    align-content: flex-end;
+}
